@@ -1,0 +1,16 @@
+{
+    "name": "tgl-event-bus.samples",
+    "rootNamespace": "",
+    "references": [
+        "tgl-event-bus.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

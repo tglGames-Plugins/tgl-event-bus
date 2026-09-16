@@ -1,0 +1,22 @@
+{
+    "name": "com.tglgames.tgl-event-bus",
+    "version": "0.0.1",
+    "displayName": "TGL Event Bus",
+    "description": "This is an Event Bus which allows you to subscribe and unsubscribe to custom events. It also has channels for dividing modules.",
+    "author": {
+        "name" : "Rishabh Jain",
+        "email" : "thegamelearner@gmail.com",
+        "url" : "https://tglblog.vercel.app/"
+     },
+     "publishConfig": { "registry": "https://npm.pkg.github.com/@tglgames-plugins" },
+    "unity": "6000.0",
+    "unityRelease": "3f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "https://opensource.org/license/apache-2-0",
+    "dependencies": { },
+   "keywords": [
+      "TGL",
+     "Event Bus"
+    ]
+}

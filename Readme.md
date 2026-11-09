@@ -118,6 +118,5 @@ See [How to add this package](HowToAddPackage.md) for detailed instructions.
 References: 
 - https://www.youtube.com/watch?v=4_DTAnigmaQ
 - https://www.youtube.com/watch?v=95eFgUENnTc&t=36s
-- https://www.youtube.com/watch?v=4_DTAnigmaQ&t=2s
 
 
